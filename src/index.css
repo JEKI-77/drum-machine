@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background: #8d8d8d;
+  background: #008B8B;
 }
 
 .container {
@@ -52,11 +52,11 @@ body {
   -moz-border-radius: 0.5rem;
   -ms-border-radius: 0.5rem;
   border-radius: 0.5rem;
-  background: #D3D3D3;
+  background: #483D8B;
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #000;
+  color: #ffff;
   font-size: 2rem;
 }
 
